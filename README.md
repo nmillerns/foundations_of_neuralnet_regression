@@ -4,4 +4,4 @@ A Jupyter notebook of in Keras to explore regression if 1d functions f: R -> R u
 ## Instructions
 - Run jupyter-notebook in this directiory
 - In a browser, load http://localhost:8888/
-- Open 1-d\_function\_regression.ipynb
+- Open [](1-d_function_regression.ipynb)
