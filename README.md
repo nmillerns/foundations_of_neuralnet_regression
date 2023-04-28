@@ -1,5 +1,5 @@
-# foundationsi\_of\_neuralnet\_regression
-A Jupyter notebook of in Keras to explore regression if 1d functions f: R -> R using neural netrowks
+# foundations\_of\_neuralnet\_regression
+A Jupyter notebook of in Keras to explore regression if 1d functions f: *R* -> *R* using neural netrowks
 
 See [The Notebook](1-d_function_regression.ipynb)
 
